@@ -1,5 +1,5 @@
 ---
-title:  "A Craftsman Workshop"
+title:  "A Craftsman Workshop2"
 subtitle: "It's always a bit messy"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
