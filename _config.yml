@@ -3,5 +3,5 @@ title: Modern Blog3
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
 author: Wferr
-baseurl: "/w3synack.github.io" # the subpath of your site, e.g. /blog/
-url: "https://w3synack.github.io" # the base hostname & protocol for your site
+baseurl: "/pvinayagam.github.io" # the subpath of your site, e.g. /blog/
+url: "https://pvinayagam.github.io" # the base hostname & protocol for your site
